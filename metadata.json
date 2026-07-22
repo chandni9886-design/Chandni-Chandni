@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A modern weather application showing current conditions, 7-day forecast, and smart recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
